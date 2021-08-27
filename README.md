@@ -1,2 +1,2 @@
 # valerieclarke.github.io
-Github Pages Website
+Valerie's Github Page
